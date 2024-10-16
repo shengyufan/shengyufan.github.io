@@ -52,5 +52,5 @@ Yu Hao, Xin Cao, **Yufan Sheng**, Yixiang Fang, and Wei Wang. The 2021 Advances 
 * Student Travel Award: SIGMOD 2023
 * Development and Research Training Grant (DRTG): UNSW 2023
 * University International Postgraduate Award (UIPA): UNSW 2021 - 2024
-* The Second Prize Scholarship: NWPU 2017
+* The Second Prize Scholarship: NWPU 2016
   
