@@ -16,7 +16,7 @@ My research interests focus on machine learning for database system, especially 
 ## Experience
 2021.02 - now: Ph.D. Student at UNSW \
 2021.04 - 2021.12: Research Assistant at CUHK-SZ. Supervisor: Dr. Yixiang Fang \
-2018.01 - 2020.12: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
+2018.08 - 2021.01: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
 2017.09 - 2018.07: M.Sc. in Information Technology, Department of Computer Science and Engineering, HKUST \
 2013.09 - 2017.07: B.Eng. in Software Engineering, School of Software, NWPU
 
