@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a fourth-year Ph.D. student in Computer Science and Engineering at [the University of New South Wales (UNSW)](https://www.unsw.edu.au/), supervised by Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Additionally, I am fortunate to work under the guidance of esteemed supervisors, Dr. [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) (UoA) and Dr. [Yixiang Fang](https://fangyixiang.github.io/) (CUHK-SZ) from diverse institutions. Their expertise and support have been invaluable to my research.
+Currently I am a fourth-year Ph.D. student in Computer Science and Engineering at [the University of New South Wales (UNSW)](https://www.unsw.edu.au/), supervised by Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Additionally, I am fortunate to work under the guidance of esteemed supervisors, Dr. [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) (UoA) and Prof. [Yixiang Fang](https://fangyixiang.github.io/) (CUHK-SZ) from diverse institutions. Their expertise and support have been invaluable to my research.
 
 Prior to that, I obtained the M.Sc. degree in Information Technology from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and the B.Eng. degree in Software Engineering from [Northwestern Polytechnical University (NWPU)](https://en.nwpu.edu.cn/).
 
@@ -15,20 +15,22 @@ My research interests focus on machine learning for database system, especially 
 
 ## Experience
 2021.02 - now: Ph.D. Student at UNSW \
-2021.04 - 2021.12: Research Assistant at CUHK-SZ. Supervisor: Dr. Yixiang Fang \
+2021.04 - 2021.12: Research Assistant at CUHK-SZ. Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/) \
 2018.08 - 2021.01: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
 2017.09 - 2018.07: M.Sc. in Information Technology, Department of Computer Science and Engineering, HKUST \
 2013.09 - 2017.07: B.Eng. in Software Engineering, School of Software, NWPU
 
 ## Project
-* ["Wherami: Client-based Indoor Localization Technology"](https://vprd.hkust.edu.hk/highlight-recognition/impact-cases/location-based-tech), 2018 - 2020.\
-Task: Develop indoor localization system.
-
 * ["Geo-fencing Home Quarantine"](https://vprd.hkust.edu.hk/highlight-recognition/impact-cases/location-based-tech), 2020.\
 Task: Develop home quarantine detection application.
 
+* ["Wherami: Client-based Indoor Localization Technology"](https://vprd.hkust.edu.hk/highlight-recognition/impact-cases/location-based-tech), 2018 - 2020.\
+Task: Develop indoor localization system.
 
 ## Publication
+* "ACE: A Cardinality Estimator for Set-Valued Queries"  \
+**Yufan Sheng**, Xin Cao, Kaiqi Zhao, Yixiang Fang, Jianzhong Qi, Wenjie Zhang, and Christian S. Jensen. The 2025 International Conference on Very Large Data Bases. **(VLDB 2025)**
+
 * "WISK: A Workload-aware Learned Index for Spatial Keyword Queries" [\[Paper\]](https://dl.acm.org/doi/10.1145/3589332) \
 **Yufan Sheng**, Xin Cao, Yixiang Fang, Kaiqi Zhao, Jianzhong Qi, Gao Cong, and Wenjie Zhang. The 2023 ACM International Conference on Management of Data. **(SIGMOD 2023)**
 
@@ -51,6 +53,6 @@ Yu Hao, Xin Cao, **Yufan Sheng**, Yixiang Fang, and Wei Wang. The 2021 Advances 
 ## Award
 * Student Travel Award: SIGMOD 2023
 * Development and Research Training Grant (DRTG): UNSW 2023
-* University International Postgraduate Award (UIPA): UNSW 2021 - 2024
+* University International Postgraduate Award (UIPA): UNSW 2021 - 2025
 * The Second Prize Scholarship: NWPU 2016
   
