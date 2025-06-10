@@ -48,7 +48,7 @@ Yu Hao, Xin Cao, **Yufan Sheng**, Yixiang Fang, and Wei Wang. The 2021 Advances 
 
 ### Service
 * PC Memeber: [IEEE BigData 2023](https://bigdataieee.org/BigData2023/index.html)
-* External Reviewer: [VLDB 2023](https://vldb.org/2023/), [MDM 2022](https://mdm2022.cs.ucy.ac.cy/index.html), [APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/)
+* External Reviewer: [APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/), [VLDB 2023](https://vldb.org/2023/), [MDM 2022](https://mdm2022.cs.ucy.ac.cy/index.html)
 * Student Volunteer: [SIGMOD 2023](https://2023.sigmod.org/), [VLDB 2022](https://vldb.org/2022/)
 
 ## Award
