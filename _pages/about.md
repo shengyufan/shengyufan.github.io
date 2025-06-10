@@ -14,6 +14,7 @@ Prior to that, I obtained the M.Sc. degree in Information Technology from the [H
 My research interests focus on machine learning for database system, especially for spatial database. Feel free to contact me at [yufan.sheng\[AT\]unsw.edu.au](mailto:yufan.sheng@unsw.edu.au).
 
 ## Experience
+2025.06 - now: Postdoctoral Writing Fellow at UNSW \
 2021.02 - now: Ph.D. Student at UNSW \
 2021.04 - 2021.12: Research Assistant at CUHK-SZ. Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/) \
 2018.08 - 2021.01: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
@@ -38,17 +39,17 @@ Task: Develop indoor localization system.
 Yu Hao, Xin Cao, **Yufan Sheng**, Yixiang Fang, and Wei Wang. The 2021 Advances in Neural Information Processing Systems **(NeurIPS 2021)**
 
 * "Context-aware Location Search on Maps" [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3393527.3393556) \
-**Yufan Sheng**, Yu Hao. The 2020 ACM Turing Celebration Conference **(ACM TURC 2020)**
+**Yufan Sheng** and Yu Hao. The 2020 ACM Turing Celebration Conference **(ACM TURC 2020)**
 
 ## Teaching and Service
 ### Teaching Assistant
-* COMP9313: Big Data Management, UNSW. (2022 T2, 2022 T3, 2023 T2)
+* COMP9313: Big Data Management, UNSW. (2022 T2, 2022 T3, 2023 T2, 2023 T3, 2025 T2)
 * ZZEN9313: Big Data Management, Online. (2022 Hexa2)
 
 ### Service
 * PC Memeber: [IEEE BigData 2023](https://bigdataieee.org/BigData2023/index.html)
-* External Reviewer: [VLDB 2023](https://vldb.org/2023/), [MDM 2022](https://mdm2022.cs.ucy.ac.cy/index.html)
-* Student Volunteer: [SIGMOD 2023](https://2023.sigmod.org/)
+* External Reviewer: [VLDB 2023](https://vldb.org/2023/), [MDM 2022](https://mdm2022.cs.ucy.ac.cy/index.html), [APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/)
+* Student Volunteer: [SIGMOD 2023](https://2023.sigmod.org/), [VLDB 2022](https://vldb.org/2022/)
 
 ## Award
 * Student Travel Award: SIGMOD 2023
