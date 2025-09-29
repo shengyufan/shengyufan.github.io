@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a fourth-year Ph.D. student in [Data and Knowledge Research Group](https://unswdb.github.io/index.html), School of Computer Science and Engineering at [The University of New South Wales (UNSW)](https://www.unsw.edu.au/), supervised by Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Additionally, I am fortunate to work under the guidance of esteemed supervisors, Dr. [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/) (UoA) and Prof. [Yixiang Fang](https://fangyixiang.github.io/) (CUHK-SZ) from diverse institutions. Their expertise and support have been invaluable to my research.
+Currently, I am a Software Engineer in Google.
 
-Prior to that, I obtained the M.Sc. degree in Information Technology from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and the B.Eng. degree in Software Engineering from [Northwestern Polytechnical University (NWPU)](https://en.nwpu.edu.cn/).
-
-My research interests focus on machine learning for database system, especially for spatial database. Feel free to contact me at [yufan.sheng\[AT\]unsw.edu.au](mailto:yufan.sheng@unsw.edu.au).
+Before that, I acquired my Ph.D. degree from [The University of New South Wales (UNSW)](https://www.unsw.edu.au/), supervised by Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Additionally, I was fortunate to work under the guidance of esteemed supervisors, Dr. [Kaiqi Zhao](https://kaiqizhao.github.io/) (HIT-ShenZhen) and Prof. [Yixiang Fang](https://fangyixiang.github.io/) (CUHK-ShenZhen) from diverse institutions. Their expertise and support have been invaluable to my research. Additionally, I obtained the M.Sc. degree in Information Technology from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and the B.Eng. degree in Software Engineering from [Northwestern Polytechnical University (NWPU)](https://en.nwpu.edu.cn/).
 
 ## Experience
-2025.06 - now: Postdoctoral Writing Fellow at UNSW \
-2021.02 - now: Ph.D. Student at UNSW \
+2025.09 - now: Software Engineer at Google \
+2025.06 - 2025.08: Postdoctoral Writing Fellow at UNSW \
+2021.02 - 2025.06: Ph.D. Student at UNSW \
 2021.04 - 2021.12: Research Assistant at CUHK-SZ. Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/) \
 2018.08 - 2021.01: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
 2017.09 - 2018.07: M.Sc. in Information Technology, Department of Computer Science and Engineering, HKUST \
@@ -29,7 +28,7 @@ Task: Develop home quarantine detection application.
 Task: Develop indoor localization system.
 
 ## Publication
-* "ACE: A Cardinality Estimator for Set-Valued Queries"  \
+* "ACE: A Cardinality Estimator for Set-Valued Queries"  [\[Paper\]](https://www.vldb.org/pvldb/vol18/p2112-sheng.pdf)\
 **Yufan Sheng**, Xin Cao, Kaiqi Zhao, Yixiang Fang, Jianzhong Qi, Wenjie Zhang, and Christian S. Jensen. The 2025 International Conference on Very Large Data Bases. **(VLDB 2025)**
 
 * "WISK: A Workload-aware Learned Index for Spatial Keyword Queries" [\[Paper\]](https://dl.acm.org/doi/10.1145/3589332) \
