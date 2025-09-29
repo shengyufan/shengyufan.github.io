@@ -14,7 +14,7 @@ Before that, I acquired my Ph.D. degree from [The University of New South Wales 
 ## Experience
 **2025.09 - now**: Software Engineer at Google \
 **2025.06 - 2025.08**: Postdoctoral Writing Fellow at UNSW \
-**2021.02 - 2025.06**: Ph.D. Student at UNSW \
+**2021.02 - 2025.06**: Ph.D. Student at [Data and Knowledge Research Group](https://unswdb.github.io/), UNSW \
 **2021.04 - 2021.12**: Research Assistant at CUHK-SZ. Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/) \
 **2018.08 - 2021.01**: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
 **2017.09 - 2018.07**: M.Sc. in Information Technology, Department of Computer Science and Engineering, HKUST \
