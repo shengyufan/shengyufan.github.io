@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Software Engineer in Google.
+Currently, I am a Software Engineer at Google.
 
 Before that, I acquired my Ph.D. degree from [The University of New South Wales (UNSW)](https://www.unsw.edu.au/), supervised by Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Additionally, I was fortunate to work under the guidance of esteemed supervisors, Dr. [Kaiqi Zhao](https://kaiqizhao.github.io/) (HIT-ShenZhen) and Prof. [Yixiang Fang](https://fangyixiang.github.io/) (CUHK-ShenZhen) from diverse institutions. Their expertise and support have been invaluable to my research. Additionally, I obtained the M.Sc. degree in Information Technology from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and the B.Eng. degree in Software Engineering from [Northwestern Polytechnical University (NWPU)](https://en.nwpu.edu.cn/).
 
 ## Experience
-2025.09 - now: Software Engineer at Google \
-2025.06 - 2025.08: Postdoctoral Writing Fellow at UNSW \
-2021.02 - 2025.06: Ph.D. Student at UNSW \
-2021.04 - 2021.12: Research Assistant at CUHK-SZ. Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/) \
-2018.08 - 2021.01: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
-2017.09 - 2018.07: M.Sc. in Information Technology, Department of Computer Science and Engineering, HKUST \
-2013.09 - 2017.07: B.Eng. in Software Engineering, School of Software, NWPU
+**2025.09 - now**: Software Engineer at Google \
+**2025.06 - 2025.08**: Postdoctoral Writing Fellow at UNSW \
+**2021.02 - 2025.06**: Ph.D. Student at UNSW \
+**2021.04 - 2021.12**: Research Assistant at CUHK-SZ. Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/) \
+**2018.08 - 2021.01**: Research Assistant at MTrec Lab, HKUST. Supervisor: Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/) \
+**2017.09 - 2018.07**: M.Sc. in Information Technology, Department of Computer Science and Engineering, HKUST \
+**2013.09 - 2017.07**: B.Eng. in Software Engineering, School of Software, NWPU
 
 ## Project
 * ["Geo-fencing Home Quarantine"](https://vprd.hkust.edu.hk/highlight-recognition/impact-cases/location-based-tech), 2020.\
